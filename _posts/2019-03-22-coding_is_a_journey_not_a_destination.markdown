@@ -25,7 +25,11 @@ I give myself about 15 minutes to work on a simple problem and about 1 hour on a
 									     
 ###                                                              3. Broken Code is Normal 
 
- It's scary to see the errors come up on your CLI (Command Line Interface). But those errors are simply messages telling you what to fix. Just imagine a detective showing up to the scene of a murder and is horrified at finding a knife with the fingerprints of the murderer. Sounds silly, right? Well, it's the same with programming. You are the detective and the errors are the fingerprints telling you where the problem is located and what to do to fix it. So have fun finding the bugs and eventually squashing them. Just make sure when finding the answers to those bugs on, say, Google, you understand why they're there and what exactly you need to do to fix them. 
+ It's scary to see the errors come up on your CLI (Command Line Interface). But those errors are simply messages telling you what to fix. 
+ 
+Just imagine a detective showing up to the scene of a murder and is horrified at finding a knife with the fingerprints of the murderer. Sounds silly, right? Well, it's the same with programming. You are the detective and the errors are the fingerprints telling you where the problem is located and what to do to fix it. 
+
+So have fun finding the bugs and eventually squashing them. Just make sure when finding the answers to those bugs on, say, Google, you understand why they're there and what exactly you need to do to fix them. 
 									     
 ###                                                              4. Celebrate Your Successes 
 
@@ -34,14 +38,18 @@ When you've squashed all (or most all) the bugs and your program is doing your r
 ###                                                              5. Give Yourself Time To Learn 
 
  "Start thinking in terms of years, not days, weeks, or even months. Computers and technology aren't going anywhere. Slow down." I wish someone had gotten in my face and told me this when I started. So I'm telling you now: SLOW DOWN. 
-Technology may be advancing quickly in some ways but consider this: JavaScript was invented in 1995 as Mocha and later LiveScript. But it never actually became popular or widely used until 2009 when it was used by Google Earth. Think about it. 14 years it lay practically dormant. Now it's incredibly popular and we can barely conceive having the internet without it. Think about where you want to be in the next 14 years. Not days. Not weeks or months. Years. You've learned so much already in this short amount of time. Let the concepts sink in and slow down. The internet isn't going anywhere. 
+ 
+Technology may be advancing quickly in some ways but consider this: JavaScript was invented in 1995 as Mocha and later LiveScript. But it never actually became popular or widely used until 2009 when it was used by Google Earth. Think about it. For fourteen years it lay practically dormant. Now it's incredibly popular and we can barely conceive having the internet without it. Think about where you want to be in the next fourteen years. Not days. Not weeks or months. Years. You've learned so much already in this short amount of time. Let the concepts sink in and slow down. The internet isn't going anywhere. 
 
 ###                                                             6. Work On Your Soft Skills 
                  
 This is probably one of the hardest things to learn not only as a developer but as a person. People have bad days. You say something they don't like (unintentionally), and they let you have it. Or maybe you're the one whose had a bad day (or week) and you've just run out of patience. It's really hard to be kind and respectful when you're tired, overworked and the stress of life is just wearing you down. 
-								 The best advice I can give is to practice kindness. You may not feel it. You may want to lash out because you think it will make you feel better, but dont. Just don't. Instead, slow down and put yourself in their position by asking a question. Ask about their family, health, or finances. Take their humanity into account, whoever they are. They're human just like you. 
-								 I work as a server at Olive Garden. My new manager (we'll call him Fred) was giving me a hard time because I kept attempting to take my orders down from the counter to place on the tray. It was a busy Friday night and that was his position to keep things moving. He was overly irritated at me and I could sense it. We didn't know each and had only met briefly that week. When there was a lull in the dinner rush, I simply asked him where he was from. Fred's face lit up as he began to tell me his story and ever after that we've gotten along. He even jokes around with me now.  
-								 My point is if you just take time to listen and understand, others will be more considerate as well and will jump at the chance to work with you no matter how limited you think your programming skills are. So remember to be kind to yourself and give others a little understanding because at the end of the day that's all anyone really wants. 
+
+The best advice I can give is to practice kindness. You may not feel it. You may want to lash out because you think it will make you feel better, but dont. Just don't. Instead, slow down and put yourself in their position by asking a question. Ask about their family, health, or finances. Take their humanity into account, whoever they are. They're human just like you. 
+								
+I work as a server at Olive Garden. My new manager (we'll call him Fred) was giving me a hard time because I kept attempting to take my orders down from the counter to place on the tray. It was a busy Friday night and that was his position to keep things moving. He was overly irritated at me and I could sense it. We didn't know each and had only met briefly that week. When there was a lull in the dinner rush, I simply asked him where he was from. Fred's face lit up as he began to tell me his story and ever after that we've gotten along. He even jokes around with me now.
+
+My point is if you just take time to listen and understand, others will be more considerate as well and will jump at the chance to work with you no matter how limited you think your programming skills are. So remember to be kind to yourself and give others a little understanding because at the end of the day that's all anyone really wants. 
 								 
-                                                                          [Follow me on Twitter](https://twitter.com/donnacamos88) 
+                                                                      
 								 
