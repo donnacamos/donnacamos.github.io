@@ -6,7 +6,6 @@ permalink:  coding_is_a_journey_not_a_destination
 ---
 
 																																	                        
- ##                                                    By Donna Amos  
 
 When I first began coding about one year ago, I kept thinking to myself, "When I'm a  developer, I will understand this concept/language/tutorial better." Little did I know that by typing that first:`"Hello, World!"`and deciding to continue from there, I was already a developer.  I could go on to explain what exactly a developer is but I'd rather keep this blog post about what to do and what not to in your coding journey. Coding is, after all, a journey and not a destination. I would like to keep this short and just give you a little help for how to give yourself room to be human while learning to be a developer. 
 												
