@@ -13,7 +13,7 @@ I've created a list of five simple steps to help you on your project. But it's u
 
 Let's get started!
 
-###  1.  Purpose or What Will My Project Be Used For?
+### 1.  Purpose or What Will My Project Be Used For?
  
  Usually a project is laid out based on the needs of the user. But if you have your own idea for a project you must ask yourself, "What will my project be used for?" Is there a need for this particular project or is it just for fun? 
  There's really no right or wrong answer. This is just to center yourself on what you're doing so you have a clear goal in mind. 
