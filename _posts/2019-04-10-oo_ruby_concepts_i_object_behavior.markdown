@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "OO Ruby Concepts I : Object Behavior"
-date:       2019-04-10 14:22:21 +0000
+title:      "OO Ruby Concepts, Part 1 : Object Behavior"
+date:       2019-04-10 10:22:21 -0400
 permalink:  oo_ruby_concepts_i_object_behavior
 ---
 
