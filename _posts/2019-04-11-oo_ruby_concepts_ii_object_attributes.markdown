@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "OO Ruby Concepts II : Object Attributes "
-date:       2019-04-11 22:24:23 +0000
+title:      "OO Ruby Concepts, Part 2 : Object Attributes "
+date:       2019-04-11 18:24:24 -0400
 permalink:  oo_ruby_concepts_ii_object_attributes
 ---
 
