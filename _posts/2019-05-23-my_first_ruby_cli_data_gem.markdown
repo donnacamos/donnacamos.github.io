@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My First Ruby CLI Data Gem "
-date:       2019-05-23 21:39:38 +0000
+date:       2019-05-23 17:39:39 -0400
 permalink:  my_first_ruby_cli_data_gem
 ---
 
@@ -13,7 +13,7 @@ I tried going back to basics and just kept it simple. Just remember you build me
 
 If I had to do this over again, here are the steps I would use to be more systematic in my approach: 
 ### 1. Set Up the Gem 
-The CLI Gem I created is called 'Makeup-Sales-CLI-Gem.' It lets you see the sales going on at Ulta Beauty's website. First, set up a new Github repository. Watch this video to help you set up your project in the IDE https://www.youtube.com/watch?time_continue=317&v=YZNXWWHUO-E.
+The CLI Gem I created is called 'Makeup-Sales-CLI-Gem.' It lets you see the sales going on at Ulta Beauty's website. First, set up a new Github repository. Watch this [video](https://www.youtube.com/watch?time_continue=317&v=YZNXWWHUO-E) to help you set up your project in the IDE.
 Now that the Github repository is set up you need to make sure your folders and files are set up. 
 I named the gem 'Makeup-Sales-CLI-Gem'. Within that gem I had three folders: bin, config, and makeup-sales. 
 Setting up the gem should be straightforward but unless you put the right gems (e.g. nokogiri) in the right files, you'll continue to run into errors. 
@@ -240,8 +240,7 @@ This project took me over a month and I had to go over each basic concept no les
 Sometimes the answer is simple if you know what to look for but if you don't it can take you longer than it should. I regret that I didn't ask for help sooner or more often but I don't regret the amount of study and work I put into it. 
 Don't be afraid to review. If you feel like you're over reviewing, you're probably doing it right. Don't get discouraged. Coding is complicated and isn't meant to be picked up overnight. If you're frustrated take a break. Go over everything slowly and be sure to take care of yourself. 
 
-I hope this helps you in building your CLI Gem. I learn best from documented code explaining what every method's purpose is and what it's doing. Here's the Github link if you want a better idea of what the structure is for a Ruby Gem 
-https://github.com/donnacamos/makeup-sales-cli-gem
+I hope this helps you in building your CLI Gem. I learn best from documented code explaining what every method's purpose is and what it's doing. Here's the Github [link](https://github.com/donnacamos/makeup-sales-cli-gem) if you want a better idea of what the structure is for a Ruby gem. 
 
 Good luck and happy coding! 
 
