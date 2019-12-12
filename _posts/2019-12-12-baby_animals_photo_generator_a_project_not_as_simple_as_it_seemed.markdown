@@ -124,9 +124,9 @@ JavaScript is tricky and confusing but if you learn how to use `debugger`, `cons
 Also, go easy on yourself. JavaScript is a skill most people take years to learn. I still don't fully understand everything about how my project works. Just enough to know what it's doing on a basic level. 
 
 ### Resources 
-(JavaScript Repository)[https://github.com/donnacamos/baby-animals-photo-generator-frontend]
-(Rails API Repository)[https://github.com/donnacamos/baby-animal-photo-generator-api]
-(Cernan's Notes App Repository)[https://github.com/cernanb/notes-app]
-(Rails and JavaScript Blog Post)[https://medium.com/@luoana.chirita/using-a-ruby-on-rails-backend-with-a-javascript-frontend-ddf25f8f19c6]
+[JavaScript Repository](https://github.com/donnacamos/baby-animals-photo-generator-frontend)
+[Rails API Repository](https://github.com/donnacamos/baby-animal-photo-generator-api)
+[Cernan's Notes App Repository](https://github.com/cernanb/notes-app)
+[Rails and JavaScript Blog Post](https://medium.com/@luoana.chirita/using-a-ruby-on-rails-backend-with-a-javascript-frontend-ddf25f8f19c6)
 
 
