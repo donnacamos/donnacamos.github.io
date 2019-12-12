@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Baby Animals Photo Generator: A Project Not As Simple As It Seemed"
-date:       2019-12-12 22:53:13 +0000
+date:       2019-12-12 17:53:14 -0500
 permalink:  baby_animals_photo_generator_a_project_not_as_simple_as_it_seemed
 ---
 
