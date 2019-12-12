@@ -79,7 +79,6 @@ class Photo {
 2. Create a render function with dynamic attributes
 ```
  renderData() { 
-   console.log(this.id) 
   return `
     <img src="${this.imageUrl}" height="500px" width="600px" class="slide showing rounded-corners"/> 
     <p>photo credit: ${this.artistName}</p> 
