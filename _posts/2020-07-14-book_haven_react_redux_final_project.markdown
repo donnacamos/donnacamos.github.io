@@ -6,7 +6,7 @@ permalink:  book_haven_react_redux_final_project
 ---
 
 ## User Story 
- ### Book Haven is an app to keep track of all your favorite books. I got the idea to make the app because I have so many books I like to recommend to others but can't always remember the titles or the author's name. This app takes care of that problem by storing your books in a list. You can login to the app after you create an account and add a book with a title, author and a short description. The app still needs some tweaking but it's fuctional. 
+### Book Haven is an app to keep track of all your favorite books. I got the idea to make the app because I have so many books I like to recommend to others but can't always remember the titles or the author's name. This app takes care of that problem by storing your books in a list. You can login to the app after you create an account and add a book with a title, author and a short description. The app still needs some tweaking but it's fuctional. 
 	
 ## Languages Used in This App 
 ### Ruby, Rails API, ActiveRecord, React, Redux, HTML, CSS, Semantic UI
