@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Book Haven: React/Redux Final Project"
-date:       2020-07-15 01:46:02 +0000
+date:       2020-07-14 21:46:03 -0400
 permalink:  book_haven_react_redux_final_project
 ---
 
